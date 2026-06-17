@@ -1,21 +1,32 @@
-### Olá! Sou o Vinicius Chociai Naginski 🤚🏽
+# Olá, eu sou Vinicius Chociai Naginski 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinichociai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-chociai-naginski-878a35287/)
+Sou **Desenvolvedor Full Stack Júnior**, com experiência prática em desenvolvimento de sistemas web, APIs, banco de dados, dashboards e soluções digitais com inteligência artificial aplicada.
 
-![Chociai GitHub stats](https://github-readme-stats.vercel.app/api?username=vinichociai&show_icons=true&theme=onedark)
+Atualmente curso **Big Data no Agronegócio pela FATEC Shunji Nishimura — Pompeia**, com conclusão prevista para 2026.
 
-## Tecnologias que uso no meu dia a dia: 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="GC" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div><br/>
+## 🚀 Tecnologias e ferramentas
 
-Transformando ideias em realidade, uma linha de código por vez.
+* **Front-end:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+* **Back-end:** Node.js, APIs REST, integração com serviços externos
+* **Banco de dados:** Supabase, MySQL
+* **Ferramentas:** Git, GitHub, Vercel
+* **Outros conhecimentos:** Inteligência Artificial aplicada, OpenAI API, automação de processos, e-commerce e marketplaces
+
+## 💼 Projetos em destaque
+
+### Legal Mind
+
+Sistema desenvolvido no Programa Inova Skill 2024 para apoiar rotinas do setor jurídico com uso de inteligência artificial. Atuei no desenvolvimento full stack, contribuindo com front-end, back-end, banco de dados, APIs e integração com IA para análise de publicações e geração de providências.
+
+### Azeitona Preta
+
+Projeto colaborativo em desenvolvimento voltado para ofertas, vouchers e experiências locais. Atuo no desenvolvimento full stack da plataforma, contribuindo com front-end, back-end, banco de dados, APIs internas, autenticação e dashboard administrativo.
+
+## 📌 Objetivo profissional
+
+Busco oportunidades remotas como **Desenvolvedor Full Stack Júnior**, **Desenvolvedor Web**, **Front-end React/Next.js** ou **Analista de Sistemas Júnior**, contribuindo com tecnologia, visão prática de produto e desenvolvimento de soluções digitais.
+
+## 📫 Contato
+
+* LinkedIn: [www.linkedin.com/in/vinicius-chociai-naginski-878a35287](http://www.linkedin.com/in/vinicius-chociai-naginski-878a35287)
+* E-mail: [vinichociai155@gmail.com](mailto:vinichociai155@gmail.com)
