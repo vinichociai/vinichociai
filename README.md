@@ -28,5 +28,5 @@ Busco oportunidades remotas como **Desenvolvedor Full Stack Júnior**, **Desenvo
 
 ## 📫 Contato
 
-* LinkedIn: [www.linkedin.com/in/vinicius-chociai-naginski-878a35287](http://www.linkedin.com/in/vinicius-chociai-naginski-878a35287)
+* LinkedIn: [www.linkedin.com/in/viniciuschociai](https://www.linkedin.com/in/viniciuschociai/)
 * E-mail: [vinichociai155@gmail.com](mailto:vinichociai155@gmail.com)
